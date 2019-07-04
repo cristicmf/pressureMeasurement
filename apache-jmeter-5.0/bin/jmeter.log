@@ -1,0 +1,81 @@
+2019-07-04 10:20:15,451 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2019-07-04 10:20:15,472 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-07-04 10:20:15,473 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2019-07-04 10:20:15,493 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-07-04 10:20:15,493 INFO o.a.j.JMeter: Version 5.0 r1840935
+2019-07-04 10:20:15,493 INFO o.a.j.JMeter: java.version=1.8.0_171
+2019-07-04 10:20:15,493 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2019-07-04 10:20:15,493 INFO o.a.j.JMeter: os.name=Windows 7
+2019-07-04 10:20:15,494 INFO o.a.j.JMeter: os.arch=amd64
+2019-07-04 10:20:15,494 INFO o.a.j.JMeter: os.version=6.1
+2019-07-04 10:20:15,494 INFO o.a.j.JMeter: file.encoding=GBK
+2019-07-04 10:20:15,494 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-07-04 10:20:15,494 INFO o.a.j.JMeter: Available Processors =4
+2019-07-04 10:20:15,498 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-07-04 10:20:15,498 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2019-07-04 10:20:15,498 INFO o.a.j.JMeter: JMeterHome=D:\14-weevent\16-Ñ¹²â\jmeter2\apache-jmeter-5.0\apache-jmeter-5.0
+2019-07-04 10:20:15,498 INFO o.a.j.JMeter: user.dir  =D:\14-weevent\16-Ñ¹²â\jmeter2\apache-jmeter-5.0\apache-jmeter-5.0\bin
+2019-07-04 10:20:15,500 INFO o.a.j.JMeter: PWD       =D:\14-weevent\16-Ñ¹²â\jmeter2\apache-jmeter-5.0\apache-jmeter-5.0\bin
+2019-07-04 10:20:15,503 INFO o.a.j.JMeter: IP: 10.39.166.21 Name: crisiticmei-NB FullName: crisiticmei-NB.webank.com
+2019-07-04 10:20:15,503 INFO o.a.j.JMeter: plugin_dependency_paths=../dependencies;../dependencies/lib
+2019-07-04 10:20:15,503 INFO o.a.j.JMeter: Adding to loader: ../dependencies
+2019-07-04 10:20:15,505 INFO o.a.j.JMeter: Adding to loader: ../dependencies/lib
+2019-07-04 10:20:15,815 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-07-04 10:20:15,837 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-07-04 10:20:15,837 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-07-04 10:20:15,925 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-07-04 10:20:16,823 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-07-04 10:20:16,824 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-07-04 10:20:18,529 INFO o.a.j.g.u.JMeterMenuBar: Adding locale zh_CN
+2019-07-04 10:20:19,277 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_7-0be720dcd7c969683c8113a0fc9b8357-gui
+2019-07-04 10:20:21,323 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-07-04 10:20:21,325 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-07-04 10:20:21,325 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-07-04 10:20:21,325 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-07-04 10:20:21,326 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-07-04 10:20:21,326 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-07-04 10:20:22,295 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-07-04 10:20:22,297 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\14-weevent\16-Ñ¹²â\jmeter2\apache-jmeter-5.0\apache-jmeter-5.0\bin\proxyserver.jks
+2019-07-04 10:20:22,561 INFO o.a.j.s.FileServer: Default base='D:\14-weevent\16-Ñ¹²â\jmeter2\apache-jmeter-5.0\apache-jmeter-5.0\bin'
+2019-07-04 10:20:22,607 INFO o.a.h.i.c.DefaultHttpClient: I/O exception (java.net.SocketException) caught when connecting to {s}->https://jmeter-plugins.org:443: Connection reset
+2019-07-04 10:20:22,608 INFO o.a.h.i.c.DefaultHttpClient: Retrying connect to {s}->https://jmeter-plugins.org:443
+2019-07-04 10:20:23,217 WARN o.j.r.PluginManagerMenuItem: Failed to load plugin updates info
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210) ~[?:1.8.0_171]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_171]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_171]
+	at sun.security.ssl.InputRecord.readV3Record(InputRecord.java:593) ~[?:1.8.0_171]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:532) ~[?:1.8.0_171]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:983) ~[?:1.8.0_171]
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1385) ~[?:1.8.0_171]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1413) ~[?:1.8.0_171]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1397) ~[?:1.8.0_171]
+	at org.apache.http.conn.ssl.SSLSocketFactory.createLayeredSocket(SSLSocketFactory.java:573) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:557) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.conn.ssl.SSLSocketFactory.connectSocket(SSLSocketFactory.java:414) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:326) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:610) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:445) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56) ~[httpclient-4.5.6.jar:4.5.6]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:499) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.execute(JARSourceHTTP.java:494) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getJSON(JARSourceHTTP.java:152) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepositories(JARSourceHTTP.java:276) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.JARSourceHTTP.getRepo(JARSourceHTTP.java:304) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.PluginManager.load(PluginManager.java:71) ~[jmeter-plugins-manager-1.3.jar:?]
+	at org.jmeterplugins.repository.PluginManagerMenuItem$1.run(PluginManagerMenuItem.java:41) [jmeter-plugins-manager-1.3.jar:?]
+2019-07-04 10:20:23,587 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-07-04 10:20:23,587 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-07-04 10:20:23,587 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-07-04 10:20:23,588 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-07-04 10:20:33,944 INFO o.a.j.g.a.Load: Loading file: D:\14-weevent\16-Ñ¹²â\jmeter2\performancetest\performancetest\HTTPÇëÇó-ÏûÏ¢·¢ËÍ.jmx
+2019-07-04 10:20:33,945 INFO o.a.j.s.FileServer: Set new base='D:\14-weevent\16-Ñ¹²â\jmeter2\performancetest\performancetest'
+2019-07-04 10:20:34,073 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-07-04 10:20:34,077 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-07-04 10:20:34,080 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-07-04 10:20:34,083 INFO o.a.j.s.SaveService: Loading file: D:\14-weevent\16-Ñ¹²â\jmeter2\performancetest\performancetest\HTTPÇëÇó-ÏûÏ¢·¢ËÍ.jmx
+2019-07-04 10:20:34,259 WARN e.l.j.w.WebsocketSampler: Detected Maciej Zaleski's WebSocket Sampler plugin is installed too, which is not compatible with this plugin (but both can co-exist).
+2019-07-04 10:20:34,964 INFO o.a.j.s.FileServer: Set new base='D:\14-weevent\16-Ñ¹²â\jmeter2\performancetest\performancetest'
